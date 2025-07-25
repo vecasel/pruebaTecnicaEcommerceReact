@@ -1,0 +1,27 @@
+/* Fondo suave para toda la aplicación */
+body {
+  background-color: #f8f9fa;
+}
+
+/* Branding más destacado */
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.75rem;
+}
+
+/* Tarjetas de producto con sombras y bordes redondeados */
+.card {
+  border-radius: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Botones principales más redondeados */
+.btn-primary,
+.btn-success {
+  border-radius: 2rem;
+}
+
+/* Tabla de resumen con fondo blanco y bordes suaves */
+.table {
+  background-color: #ffffff;
+}
